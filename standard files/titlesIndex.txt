@@ -1,666 +1,444 @@
 
 1 => 1. Introduction to C++ | Data Structures and Algorithms | College Placement Course | Lecture 1
-Apna College
 
 2 => VS Code Installation for C++ in Windows | Step by step process explanation
-Apna College
 
 3 => 2.1 Data Types & Type Modifiers | Data Structures & Algorithms Course in C++ | Lecture 2.1
-Apna College
 
 4 => 2.2 Input/Output in C++ | Data Structures and Algorithm Course in C++ | Lecture 2.2
-Apna College
 
 5 => 2.3 If/else statement in C++ programming | Data Structure and Algorithm Course | Lecture 2.3
-Apna College
 
 6 => 2.4 Introduction to Loops in C++ programming | Guaranteed Placement Course | Lecture 2.4
-Apna College
 
 7 => 3.1 Break and Continue statement in C++ Programming | Guaranteed Placement Course | Lecture 3.1
-Apna College
 
 8 => 3.2 Switch-Case statement in C++ Programming | Guaranteed Placement Course | Lecture 3.2
-Apna College
 
 9 => 3.3 Operators in C++ Programming | Guaranteed Placement Course | 3.3
-Apna College
 
 10 => 4.1 Awesome Pattern Questions -1 | Guaranteed Placement Course
-Apna College
 
 11 => 4.2 Advanced Pattern Questions in C++ | Guaranteed Placement Course | Lecture 4.2
-Apna College
 
 12 => 5.1 Binary Number System | Guaranteed Placement Course | Lecture 5.1
-Apna College
 
 13 => 5.2 How to reverse a number | Check if a number is Prime or Armstrong | C++ Placement Course | # 5.2
-Apna College
 
 14 => 6.1 Functions in C++ | Guaranteed Placement Course
-Apna College
 
 15 => 6.2 Functions Challenges | C++ Guaranteed Course | Lecture 6.2
-Apna College
 
 16 => 6.3 Advanced Placement Questions on Functions | C++ Placement Course
-Apna College
 
 17 => 7.1 Time Complexity | C++ Placement Course
-Apna College
 
 18 => 8.1 Introduction to Arrays in C++ | Guaranteed Placement Course
-Apna College
 
 19 => 8.2 Searching in Arrays | Linear and Binary Search | C++ Placement Course |
-Apna College
 
 20 => 8.3.1 Sorting in Arrays | Selection Sort | C++ Placement Course
-Apna College
 
 21 => 8.3.2 Bubble Sort | Sorting in C++ | Guaranteed Placement Course
-Apna College
 
 22 => 8.3.3 Insertion Sort | Sorting Algorithms | C++ Placement Course |
-Apna College
 
 23 => 8.4 Array Challenges | C++ Placement Course
-Apna College
 
 24 => 8.5 Arrays - Q's asked by Top MNC's | C++ Placement Course
-Apna College
 
 25 => 8.6 Subarrays - Challenges | Questions asked by Top MNC's | C++ Placement Course
-Apna College
 
 26 => 9.1 Two Dimensional Arrays | 2D Arrays | C++ Placement Course
-Apna College
 
 27 => 9.2 "2D Array" Challenges | Asked by Top MNC's | C++ Placement Course
-Apna College
 
 28 => 10. Character Arrays | C++ Placement Course
-Apna College
 
 29 => 11. Pointers in C++ | Guaranteed Placement Course
-Apna College
 
 30 => 12. Stack & Heap | C++ Placement Course
-Apna College
 
 31 => 13. Strings in C++ | Guaranteed Placement Course | Lecture 13
-Apna College
 
 32 => 13.2 Strings Challenges | C++ Placement Course
-Apna College
 
 33 => 14.1 BIT Manipulation in 11 minutes | C++ Placement Course
-Apna College
 
 34 => 14.2 BIT Manipulation Challenges | C++ Placement Course
-Apna College
 
 35 => 14.3 BIT Manipulation | Challenges - Part 2 | Questions asked by Top MNC's
-Apna College
 
 36 => 15.1 Sieve of Eratosthenes | Challenge | C++ Placement Course
-Apna College
 
 37 => 15.2 Inclusion- Exclusion Principle | GCD | C++ Placement Course
-Apna College
 
 38 => 16.1 Recursion - Introduction | C++ Placement Course
-Apna College
 
 39 => 16.2 Recursion - Challenges | C++ Placement Course
-Apna College
 
 40 => 7 Best Problems on Recursion | Recursion in C++ | Placement Course | Lec 16.3
-Apna College
 
 41 => Advanced Recursion Problems | C++ Placement Course | Lecture 16.4
-Apna College
 
 42 => Recursion | Last Lecture on Advanced Problems | Lecture 16.4
-Apna College
 
 43 => Backtracking - Rat in a Maze | C++ Placement Course | Lecture 18.1
-Apna College
 
 44 => Permutation - Return all possible permutations | C++ Placement Course | Lecture 17
-Apna College
 
 45 => N-Queen Problem - Backtracking | C++ Placement Course - 18.2
-Apna College
 
 46 => Merge Sort | Code and Explanation | C++ Course - 19.1
-Apna College
 
 47 => Quick Sort | Code and Explanation | C++ Course - 19.2
-Apna College
 
 48 => Vectors and Pair | C++ Course - 19
-Apna College
 
 49 => Count Sort | C++ Placement Course | Lecture 20.1
-Apna College
 
 50 => DNF Sort | C++ Placement Course | Lecture 20.2
-Apna College
 
 51 => Wave Sort | C++ Placement Course - 20.3
-Apna College
 
 52 => Count Inversion - Merge Sort | C++ Placement Course - 19.3
-Apna College
 
 53 => Object Oriented Programming in C++ | Important Concept | Lecture 21.1
-Apna College
 
 54 => Encapsulation - Object Oriented Programming | Lecture 21.2
-Apna College
 
 55 => Inheritance in OOP's | C++ Placement Course | Lecture 21.3
-Apna College
 
 56 => Polymorphism in Object Oriented Programming | C++ Placement Course Lecture 21.4
-Apna College
 
 57 => Introduction to Linked List | C++ Placement Course | Lecture 22
-Apna College
 
 58 => Deletion in Linked List | C++ Placement Course | Lecture 22.2
-Apna College
 
 59 => Reverse a Linked List | C++ Placement Course | Lecture 22.3
-Apna College
 
 60 => Reverse K Nodes in a Linked List | C++ Placement Course | Lecture 22.4
-Apna College
 
 61 => Detection and Removal of Cycle in Linked List | Lecture 22.5
-Apna College
 
 62 => Doubly Linked List | Data Structures & Algorithms | C++ Placement Course | Lecture 22.6
-Apna College
 
 63 => Append Last K Nodes of a Linked List | C++ Placement Course | Lecture 22.7
-Apna College
 
 64 => Find Intersection point of 2 Linked List | Lecture 22.8
-Apna College
 
 65 => Merge 2 Sorted Linked List | C++ Placement Course | Lecture 22.9
-Apna College
 
 66 => Circular Linked List - C++ Placement Course | Lecture 22.10
-Apna College
 
 67 => Put Even Position Nodes after Odd Position Nodes | C++ Placement Course | Lecture 22.11
-Apna College
 
 68 => 2021 - Top 5 Programming Language for College Students 2021
-Apna College
 
 69 => Time Complexity using Masters Theorem | C++ Placement Course | Lecture 16.5
-Apna College
 
 70 => Stack Data Structure - Introduction | C++ Placement Course | Lecture 23.1
-Apna College
 
 71 => Reverse a Sentence using Stacks | Stack Challenge | C++ Placement Course | Lecture 23.2
-Apna College
 
 72 => Reverse a Stack | C++ Placement Course | Lecture 23.3
-Apna College
 
 73 => Introduction to Prefix, Infix and Postfix | C++ Placement Course | Lecture 23.4
-Apna College
 
 74 => Prefix Expression Evaluation | C++ Placement Course | Lecture 23.5
-Apna College
 
 75 => Postfix Expression Evaluation | C++ Placement Course | Lecture 23.6
-Apna College
 
 76 => Infix to Postfix - Stack Challenges | C++ Placement Course | Lecture 23.7
-Apna College
 
 77 => Infix to Prefix | C++ Placement Course | Lecture 23.8
-Apna College
 
 78 => Balanced Parenthesis | C++ Placement Course | Lecture 23.9
-Apna College
 
 79 => Introduction to Queue Data Structure | C++ Placement Course | Lecture 24.1
-Apna College
 
 80 => Linked List Implementation of Queues | C++ Placement Course | Lecture 24.2
-Apna College
 
 81 => Queue using Stack | C++ Placement Course | Lecture 24.3
-Apna College
 
 82 => Stack using Queue | C++ Placement Course | Lecture 24.4
-Apna College
 
 83 => Stacking using Queues (Method 2) | C++ Placement Course | Lecture 24.4.2
-Apna College
 
 84 => Sliding Window Maximum using Deque | C++ Placement Course | Lecture 25.1
-Apna College
 
 85 => Largest Rectangle Code | C++ Placement Course | Lecture 25.2
-Apna College
 
 86 => Trapping Rainwater | C++ Placement Course | Lecture 25.3
-Apna College
 
 87 => Redundant Parenthesis | C++ Placement Course | Lecture 25.4
-Apna College
 
 88 => The Stock Span Problem | C++ Placement Course | Lecture 25.5
-Apna College
 
 89 => Two Pointers | Three Sum Problem | C++ Placement Course | Lecture 26.1
-Apna College
 
 90 => Max Consecutive Ones | C++ Placement Course | Lecture 26.2
-Apna College
 
 91 => Longest substring without repeating characters | C++ Placement Course | Lecture 26.3
-Apna College
 
 92 => Binary Tree Introduction | C++ Placement Course | Lecture 27.1
-Apna College
 
 93 => Binary Tree Traversals| Preorder, Inorder, Postorder Traversal | C++ Placement Course | Lecture 27.2
-Apna College
 
 94 => Build Tree from Preorder and Inorder | C++ Placement Course | Lecture 27.3
-Apna College
 
 95 => Build Tree Postorder and Inorder | C++ Placement Course | Lecture 27.4
-Apna College
 
 96 => Level Order Traversal , Sum at Kth Level In Binary Tree | C++ Placement Course | Lecture 27.5
-Apna College
 
 97 => Count and Sum of Nodes | C++ Placement Course | Lecture 27.6
-Apna College
 
 98 => Height and Diameter in Binary Tree | C++ Placement Course | Lecture 27.7
-Apna College
 
 99 => Sum Replacement in Binary Tree | C++ Placement Course | Lecture 27.8
-Apna College
 
 100 => Height Balanced Binary Tree | C++ Placement Course | Lecture 27.9
-Apna College
 
 101 => Right View of Binary Tree | C++ Placement Course | Lecture 27.10
-Apna College
 
 102 => Left View of Binary Trees | C++ Placement Course | Lecture 27.11
-Apna College
 
 103 => Shortest Distance between 2 Nodes | C++ Placement Course | Lecture 27.12
-Apna College
 
 104 => Flatten a Binary Tree | C++ Placement Course | Lecture 27.13
-Apna College
 
 105 => Nodes at Distance K in Binary Tree | C++ Placement Course | Lecture 27.14
-Apna College
 
 106 => Lowest Common Ancestor in Binary Tree | C++ Placement Course | Lecture 27.15
-Apna College
 
 107 => Max Sum Path from One Node to Another in Binary Tree | C++ Placement Course | Lecture 27.16
-Apna College
 
 108 => Binary Search Trees | Introduction & Build | C++ Placement Course | Lecture 28.1
-Apna College
 
 109 => Search and Delete in Binary Search Tree | C++ Placement Course | Lecture 28.2
-Apna College
 
 110 => Construct Binary Search Tree from Preorder | C++ Placement Course | Lecture 28.3
-Apna College
 
 111 => Check for Binary Search Tree | C++ Placement Course | Lecture 28.4
-Apna College
 
 112 => Build Balanced BST from Sorted Array | C++ Placement Course | Lecture 28.5
-Apna College
 
 113 => Catalan Numbers Application | C++ Placement Course | Lecture 28.6
-Apna College
 
 114 => Zig Zag Traversal Binary Search Tree | C++ Placement Course | Lecture 28.7
-Apna College
 
 115 => Identical Binary Search Tree | C++ Placement Course | Lecture 28.8
-Apna College
 
 116 => Largest Binary Search Tree in BT | C++ Placement Course | Lecture 28.10
-Apna College
 
 117 => Recover Binary Search Tree | C++ Placement Course | Lecture 28.11
-Apna College
 
 118 => Set & Multiset | Standard Template Library | C++ Placement Course | Lecture 28.12
-Apna College
 
 119 => Place Elements to Maximise Minimum Distance | C++ Placement Course | Lecture 29.1
-Apna College
 
 120 => Page Allocation Problem | C++ Placement Course | Lecture 29.2
-Apna College
 
 121 => Painters Partition Problem | C++ Placement Course | Lecture 29.3
-Apna College
 
 122 => Search in Sorted & Rotated Array | C++ Placement Course | Lecture 29.4
-Apna College
 
 123 => Find the Peak Element | C++ Placement Course | Lecture 29.5
-Apna College
 
 124 => Max Sum Subarray | Sliding Window Challenge | C++ Placement Course | Lecture 30.1
-Apna College
 
 125 => Minimum Subarray Size | Sliding Window Challenge | C++ Placement Course | Lecture 30.2
-Apna College
 
 126 => Form Number Divisible by 3 | Sliding Window Challenge | C++ Placement Course | Lecture 30.3
-Apna College
 
 127 => Subarray with Palindromic Concatenation | C++ Placement Course | Lecture 30.4
-Apna College
 
 128 => Perfect Numbers in Subarrays | C++ Placement Course | Lecture 30.5
-Apna College
 
 129 => Heap Intro Final Export for Upload
-Apna College
 
 130 => HeapsSort | C++ Placement Course | Lecture 31.2
-Apna College
 
 131 => Heap STL | C++ Placement Course | Lecture 31.3
-Apna College
 
 132 => Heaps - Median of Running Stream | C++ Placement Course | Lecture 31.4
-Apna College
 
 133 => Heaps - Merge K sorted Arrays | C++ Placement Course
-Apna College
 
 134 => Heap -Smallest Sequence with sum K | C++ Placement Course | Lecture 31.6
-Apna College
 
 135 => Hashing - Introduction to Hasing | C++ Placement Coure | Lecture 32.1
-Apna College
 
 136 => Hashing STL - C++ Placement Course | Lecture 32.2
-Apna College
 
 137 => Hashing - Count frequency of elements | C++ Placement Course | Lecture 32.3
-Apna College
 
 138 => Hashing - Vertical Order Print | C++ Placement Course | Lecture 32.4
-Apna College
 
 139 => Hashing - Number of Subarrays with Sum Zero | C++ Placement Course | Lec 32.5
-Apna College
 
 140 => Hashing - Sliding Window Technique | C++ Placement Course
-Apna College
 
 141 => Hashing - TOP K MOST FREQUENT ELEMENTS | C++ Placement Course | Lecture 32.7
-Apna College
 
 142 => Soduko Solver - Hashing | C++ Placement Course | Lecture 32.8
-Apna College
 
 143 => Greedy Algorithm - Introduction | C++ Placement Course Lecture 33.1
-Apna College
 
 144 => Indian Coin Change - Greedy Algorithm | C++ Placement Course | Lecture 33.2
-Apna College
 
 145 => Activity Selection Problem - Greedy Algorithm | C++ Placement Course | Lecture 33.3
-Apna College
 
 146 => Fractional Knapsack - Greedy Algorithm | C++ Placement Course | Lecture 33.4
-Apna College
 
 147 => Optimal Pattern Merge - Greedy Algorithm | C++ Placement Course | Lecture 33.5
-Apna College
 
 148 => Expedi - Greedy Algorithm | C++ Placement Course | Lecture 33.6
-Apna College
 
 149 => Maximum and Minimum Difference - Greedy Algorithm | C++ Placement Course | Lecture 33.7
-Apna College
 
 150 => Graphs - Introduction | C++ Placement Course | Lecture 34.1
-Apna College
 
 151 => Dynamic Programming - Introduction | C++ Placement Course | Lecture 35.1
-Apna College
 
 152 => Graph Terminologies | C++ Placement Course | Lecture 34.2
-Apna College
 
 153 => Graphs - Representation | C++ Placement Course | Lecture 34.3
-Apna College
 
 154 => BFS - Breadth First Search | C++ Placement Course | Lecture 34.4
-Apna College
 
 155 => DFS - Depth First Search | C++ Placement Course | Lecture 34.5
-Apna College
 
 156 => Graphs - Topological Sort | C++ Placement Course | Lecture 34.6
-Apna College
 
 157 => Cycle Detection in Undirected Graphs | C++ Placement Course | Lecture 34.7
-Apna College
 158
 Cycle Detection in Directed Graph | C++ Placement Course | Lecture 34.8
-Apna College
 159
 Connected Components | C++ Placement Course | Lecture 34.9
-Apna College
 
 160 => Bipartite Graph - C++ Placement Course | Lecture 34.10
-Apna College
 
 161 => Disjoint Set Union - Graphs | C++ Placement Course | Lecture 34.11
-Apna College
 
 162 => Cycle Detection in Undirected Graph using DSU | C++ Placement Course | Lecture 34.12
-Apna College
 
 163 => Cycle Detection in Undirected Graph using DSU | C++ Placement Course | Lecture 34.12
-Apna College
 
 164 => Kruskal's Algorithm | C++ Placement Course | Lecture 34.13
-Apna College
 
 165 => Prims Algorithm | C++ Placement Course | Lecture 34.14
-Apna College
 
 166 => Dijkstra's Algorithm | C++ Placement Course | Lecture 34.15
-Apna College
 
 167 => Bellman Ford Algorithm | C++ Placement Course | Lecture 34.16
-Apna College
 
 168 => Floyd Warshall Algorithm | C++ Placement Course | Lecture 34.17
-Apna College
 
 169 => Snakes and Ladders - Graphs | C++ Placement Course | Lecture 34.18
-Apna College
 
 170 => Graphs - Surrounded Region | C++ Placement Course | Lecture 34.19
-Apna College
 
 171 => Fibonacci Sequence - Dynamic Programming | C++ Placement Course | Lecture 35.2
-Apna College
 
 172 => Minimum Number of Squares - Dynamic Programming | C++ Placement Course | Lecture 35.3
-Apna College
 
 173 => Coin Change Problem - Dynamic Programming | C++ Placement Course | Lecture 35.4
-Apna College
 
 174 => 01 Knapsack - Dynamic Programming | C++ Placement Course | Lecture 35.7
-Apna College
 
 175 => Longest Increasing Subsequence - Dynamic Programming | C++ Placement Course | Lecture 35.8
-Apna College
 
 176 => Longest Common Subsequence - Dynamic Programming | C++ Placement Course | Lecture 35.9
-Apna College
 
 177 => Matrix Chain Multiplication - Dynamic Programming | C++ Placement Course | Lecture 35.10
-Apna College
 
 178 => Minimum Jumps to Reach End - Dynamic Programming | C++ Placement Course | Lecture 35.11
-Apna College
 
 179 => Optimal Game Strategy - Dynamic Programming | C++ Placement Course | Lecture 35.12
-Apna College
 
 180 => Number of Subsequences - Dynamic Programming | C++ Placement Course | Lecture 35.13
-Apna College
 
 181 => Count Number of Binary Strings - Dynamic Programming | C++ Placement Course | Lecture 35.14
-Apna College
 
 182 => 0-N Knapsack - Dynamic Programming | C++ Placement Course | Lecture 35.15
-Apna College
 
 183 => Kadane Algorithm - Dynamic Programming | C++ Placement Course | Lecture 35.5
-Apna College
 
 184 => Maximum Length of Bitonic Subsequence - Dynamic Programming | C++ Placement Course | Lecture 35.19
-Apna College
 
 185 => Friends Paring Problem - Dynamic Programming | C++ Placement Course | Lecture 35.20
-Apna College
 
 186 => Ugly Numbers - Dynamic Programming | C++ Placement Course | Lecture 35.18
-Apna College
 
 187 => LCS with 3 Strings - Dynamic Programming | C++ Placement Course | Lecture 35.16
-Apna College
 
 188 => K-Ordered LCS - Dynamic Programming | C++ Placement Course | Lecture 35.17
-Apna College
 
 189 => Tries - Introduction | C++ Placement Course | Lecture 36.1
-Apna College
 
 190 => XOR SubArray - Tries Challenges | C++ Placement Course | Lecture36.2
-Apna College
 
 191 => Trie bash - Challenge | C++ Placement Course | Lecture 36.3
-Apna College
 
 192 => Digital Dictionary - Tries Challenges | C++ Placement Course | Lecture 36.4
-Apna College
 
 193 => Extended Euclid Algorithm - Number Theory Advanced | C++ Placement Course | Lecture 37.1
-Apna College
 
 194 => Multiplicative Modulo Inverse - Number Theory Advanced | Lecture 37.2
-Apna College
 
 195 => Euler Totient Function - Number Theory Advanced | C++ Placement Course | Lecture 37.3
-Apna College
 
 196 => Binary Exponentiation - Number Theory Advanced | C++ Placement Course | Lecture 37.4
-Apna College
 
 197 => Fermat Little and Wilson Theorem - Number Theory Advanced | C++ Placement Course | Lecture 37.5
-Apna College
 
 198 => Boring Factorials SPOJ - Number Theory Advanced | C++ Placement Course | Lecture 37.6
-Apna College
 
 199 => Introduction, Fibonacci in Log(n) - Matrix Exponentiation | C++ Placement Course | Lecture 38.1
-Apna College
 
 200 => String Hashing - String Algorithms | C++ Placement Course | Lecture 39.1
-Apna College
 
 201 => SubStr() Function - String Algorithm | C++ Placement Course | Lecture 39.2
-Apna College
 
 202 => KMP Algorithms - String Algorithm | C++ Placement Course | Lecture 39.3
-Apna College
 
 203 => Rabin Karp - String Algorithms | C++ Placement Course | Lecture 39.4
-Apna College
 
 204 => Guide to Interactive Problems | C++ Placement Course | Lecture 43
-Apna College
 
 205 => Segment Tree - Introduction and Build | C++ Placement Course | Lecture 40.1
-Apna College
 
 206 => Query in Segment Tree | C++ Placement Course | Lecture 40.2
-Apna College
 
 207 => Maximum and Minimum Queries/Update | C++ Placement Course | Lecture 40.4
-Apna College
 
 208 => Number of minimums on a segment | C++ Placement Course | Lecture 40.5
-Apna College
 
 209 => User Snippets in VSCode | C++ Placement Course | Lecture 40.6
-Apna College
 
 210 => Segment with Max Sum | C++ Placement Course | Lecture 40.7
-Apna College
 
 211 => Kth One - Segment Tree | C++ Placement Course | Lecture 40.8
-Apna College
 
 212 => First Element at Least X - Segment Tree | C++ Placement Course | Lecture 40.9
-Apna College
 
 213 => Nested Segments - Segment Tree | C++ Placement Course | Lecture 40.12
-Apna College
 
 214 => Intersecting Segments - Segment Tree | C++ Placement Course | Lecture 40.13
-Apna College
 
 215 => Fenwick Tree - Introduction | C++ Placement Course | Lecture 41.1
-Apna College
 
 216 => Point & Range Updates - Fenwick Tree | C++ Placement Course | Lecture 41.2
-Apna College
 
 217 => Count Inversion - Fenwick Tree | C++ Placement Course | Lecture 41.3
-Apna College
 
 218 => Square Root Decomposition - Introduction | C++ Placement Course | Lecture 42.1
-Apna College
 
 219 => RMQSQ - Spoj | C++ Placement Course | Lecture 42.2
-Apna College
 
 220 => Mo's Algorithm - Square Root Decomposition | Lecture 42.3
-Apna College
 
 221 => DQueary - SPOJ | C++ Placement Course | Lecture 42.4
-Apna College
 
 222 => Policy Based Data Structures | C++ Placement Course | Lecture 44
-Apna College
