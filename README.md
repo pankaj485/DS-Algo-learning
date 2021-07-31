@@ -1,7 +1,6 @@
 ## DS-Algo-learning
 
-### Here we go !!! 
-#### Doucmenting my journey to prepare DS and Algorithms for job interviews here 
-#### Hopefully it can be helpful for someone in future 
+####  31st july 2021, Here we go !!! 
+### Documenting my Data Structres and Algorithms journey for job interviews here 
 #### [Major Source of learning](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) 
 
