@@ -441,4 +441,4 @@ Connected Components | C++ Placement Course | Lecture 34.9
 
 221 => DQueary - SPOJ | C++ Placement Course | Lecture 42.4
 
-222 => Policy Based Data Structures | C++ Placement Course | Lecture 44
+222 => Policy Based Data Structures | C++ Placement Course | Lecture 44 
