@@ -1,0 +1,1 @@
+calcFactorial(r) * calcFactorial(i - r)
