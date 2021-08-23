@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "DS-Algo-learning"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#075a48",
+			"activityBar.activeBorder": "#422c74",
+			"activityBar.background": "#044739",
+			"activityBar.foreground": "#e7e7e7",
+			"activityBar.inactiveForeground": "#e7e7e799",
+			"activityBarBadge.background": "#422c74",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"statusBar.background": "#075a48",
+			"statusBar.foreground": "#e7e7e7",
+			"statusBarItem.hoverBackground": "#015240",
+			"titleBar.activeBackground": "#075a48",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveBackground": "#21573299",
+			"titleBar.inactiveForeground": "#e7e7e799"
+		},
+		"files.associations": {
+			"*.tcc": "cpp",
+			"optional": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"ratio": "cpp",
+			"system_error": "cpp",
+			"array": "cpp",
+			"functional": "cpp",
+			"regex": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"variant": "cpp"
+		}
+	}
+}
